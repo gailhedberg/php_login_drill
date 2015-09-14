@@ -1,0 +1,54 @@
+
+h1 {
+	color: #8B0000;
+	font-weight: bold;
+	text-align: center;
+	width: 300px;;
+}
+
+h2 {
+	color: #8B0000;
+	font-weight: bold;
+	text-align: center;
+}
+h3 {
+	color: #black;
+	font-weight: bold;
+	text-align: center;
+}
+body {
+	width: 300px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	background-color: #FFF8DC;
+}
+
+fieldset {
+	border: 2px solid maroon;
+}
+
+label {
+	margin-left: 20px;
+}
+
+p {
+	margin-left: 10px;
+}
+
+input {
+	width: 85px;
+	margin-left: 15px;
+	text-align: left;
+}
+.buttons {
+	text-align: center;
+	padding: 3px;
+}
+.error {
+	color: red;
+}
+
+
